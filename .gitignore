@@ -19,6 +19,7 @@
 .env.production.local
 /.firebase
 .firebaserc
+/src/requests.js
 
 npm-debug.log*
 yarn-debug.log*
